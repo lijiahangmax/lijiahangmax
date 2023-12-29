@@ -12,6 +12,8 @@
 
 <details>
 <summary>😎 View my contributions in 3D</summary>
-![](https://raw.githubusercontent.com/lijiahangmax/lijiahangmax/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/lijiahangmax/lijiahangmax/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
+[![GitHub Green Light](https://raw.githubusercontent.com/lijiahangmax/lijiahangmax/profile-3d-contrib/profile-green.svg#gh-light-mode-only)](https://github.com/lijiahangmax)
+[![GitHub Green Night](https://raw.githubusercontent.com/lijiahangmax/lijiahangmax/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)](https://github.com/lijiahangmax)
+
 </details>
