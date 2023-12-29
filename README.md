@@ -6,7 +6,7 @@
 
 💬 You can contact me on [Email](mailto:ljh1553488six@139.com).
 
-<a href="https://github.com/lijiahangmax"><img src="https://komarev.com/ghpvc/?username=lijiahangmax" alt="lijiahangmax" /></a>
+<a href="https://github.com/lijiahangmax"><img src="https://komarev.com/ghpvc/?username=lijiahangmax" alt="lijiahangmax"/></a>
 
 [![GitHub Snake Light](https://raw.githubusercontent.com/lijiahangmax/lijiahangmax/output/github-contribution-grid-snake.svg)](https://github.com/lijiahangmax)
 
