@@ -2,7 +2,7 @@
 
 🎉 Welcome to my GitHub profile, it's great to meet you here!
 
-👨🏻‍💻 I'm Jiahang - a Java developer, [orion-ops](https://github.com/lijiahangmax/orion-ops) and Open source contributor.
+👨🏻‍💻 I'm Jiahang Li - a Java developer, [orion-ops](https://github.com/lijiahangmax/orion-ops) and Open source contributor.
 
 💬 You can contact me on [Email](mailto:ljh1553488six@139.com).
 
@@ -13,7 +13,6 @@
 <details>
 <summary>😎 View my contributions in 3D</summary>
 
-[![GitHub Green Light](https://raw.githubusercontent.com/lijiahangmax/lijiahangmax/profile-3d-contrib/profile-green.svg#gh-light-mode-only)](https://github.com/lijiahangmax)
-[![GitHub Green Night](https://raw.githubusercontent.com/lijiahangmax/lijiahangmax/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)](https://github.com/lijiahangmax)
+[![GitHub Green Light](https://raw.githubusercontent.com/lijiahangmax/lijiahangmax/profile-3d-contrib/profile-green-animate.svg)](https://github.com/lijiahangmax)
 
 </details>
